@@ -28,25 +28,30 @@ Controller:
 Create, Read, Put e Delete no POSTMAN: 
 
 Post:
+
 ![image](https://github.com/user-attachments/assets/5d2a7658-d862-4da9-8d2d-6825b036f484)
 
  
 
 Get:
+
  ![image](https://github.com/user-attachments/assets/f5985af2-a7d3-4838-9e89-b3a2015d6caa)
 
 
 Put: 
+
  ![image](https://github.com/user-attachments/assets/13b853d6-2415-4c52-a0aa-2e5d33acb733)
 
 
 Delete:
+
 ![image](https://github.com/user-attachments/assets/626ec893-7fd3-4c74-a611-d83e0989f6cd)
 
  
 
 
 Banco de dados:
+
 •	Abaixo está a tabela tb_products no banco de dados PostgreSQL:
  ![image](https://github.com/user-attachments/assets/d26dfb64-6b3f-490d-96ca-c2f231fae004)
 
