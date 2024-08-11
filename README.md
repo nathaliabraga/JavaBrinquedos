@@ -3,6 +3,7 @@ Descrição do Projeto
 A aplicação foi desenvolvida no Intellij IDEA visando realizar um CRUD completo com o tema de uma loja de brinquedos.
 
 Classes:
+
 •	Utilizamos as seguintes classes como colunas em nosso banco de dados:
  ![image](https://github.com/user-attachments/assets/f01d7bac-3bd6-4443-a749-b393d054c3d7)
 
@@ -15,6 +16,7 @@ Conexão com banco de dados:
 
 
 Tratamento de exceções:
+
 •	No DTO abaixo realizamos o tratamento de exceções, assim o usuário não pode inserir strings em branco ou números vazios.
  ![image](https://github.com/user-attachments/assets/7763a623-8248-414e-8f23-32a0d29985dc)
 
